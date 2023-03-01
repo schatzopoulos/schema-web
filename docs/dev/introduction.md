@@ -1,10 +1,10 @@
 ---
 id: introduction
-title: Introduction
-slug: /
+sidebar_label: Introduction
+slug: /dev/
 ---
 
-## What is Pglet
+# Documentation: introduction
 
 Pglet is a rich user interface (UI) framework for scripts and programs written in any language and a service for securely sharing your application UI. [Python](/docs/tutorials/python), [Bash](/docs/tutorials/bash), [PowerShell](/docs/tutorials/powershell) and [Node.js](/docs/tutorials/node) are already supported and other languages can be easily added via [Pglet protocol](/docs/reference/protocol).
 

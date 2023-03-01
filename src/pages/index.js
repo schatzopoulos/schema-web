@@ -74,7 +74,7 @@ function Home() {
                 <div className={styles.buttons}>
                   <Link
                     className={styles.indexCtasGetStartedButton}
-                    to={useBaseUrl('docs/')}>
+                    to={useBaseUrl('docs/user')}>
                     Get Started
                   </Link>
                 </div>
